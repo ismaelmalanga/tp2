@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hola
 =======
 mundo
 >>>>>>> ramac2
+=======
+bien2
+>>>>>>> ramac3
